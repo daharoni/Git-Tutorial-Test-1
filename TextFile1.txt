@@ -1,1 +1,3 @@
 Some text goes here. This is our first file added to our git repo.
+
+Adding this line on GitHub.
